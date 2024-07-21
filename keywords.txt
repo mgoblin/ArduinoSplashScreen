@@ -1,0 +1,10 @@
+SplashScreen	KEYWORD1
+display	KEYWORD2
+displayScreen	KEYWORD2
+tick	KEYWORD2
+finish	KEYWORD2
+Screen	KEYWORD3
+LCD1602Page	KEYWORD3
+State	KEYWORD3
+DisplayingScreen	KEYWORD3
+DisplaySplashScreenStatus	KEYWORD3
