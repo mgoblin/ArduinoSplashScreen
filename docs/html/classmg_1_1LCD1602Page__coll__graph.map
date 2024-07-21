@@ -1,0 +1,4 @@
+<map id="mg::LCD1602Page" name="mg::LCD1602Page">
+<area shape="rect" id="node1" title="Describes single page of LCD1602." alt="" coords="5,80,145,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="35,5,115,32"/>
+</map>
